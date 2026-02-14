@@ -1,5 +1,7 @@
 🗂️ Task Management System – Full Stack Application
 
+Project Link: https://task-management-system-bkk1-73w0p09nd.vercel.app/
+
 A production-ready full-stack Task Management system built using React, Node.js, Express, Prisma ORM, and PostgreSQL (Supabase).
 
 This project demonstrates end-to-end application development including secure authentication, protected API architecture, cloud database integration, and scalable backend configuration using connection pooling and direct database access strategies.

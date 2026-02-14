@@ -9,11 +9,7 @@ const app = express();
 
 // Middleware
 app.use(cors({
-    origin: [
-      "http://localhost:3000",
-      "https://task-management-system-ruby-rho.vercel.app/",
-      "https://task-management-system-och3.vercel.app/"
-    ],
+     origin: true,
     credentials: true,
   })
 );

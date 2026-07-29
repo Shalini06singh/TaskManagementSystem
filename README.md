@@ -1,4 +1,4 @@
-🗂️ Task Management System – Full Stack Application
+🗂️ Task Management System – Full (MERN) Stack Application
 
 Project Link: https://task-management-system-bkk1-73w0p09nd.vercel.app/
 
